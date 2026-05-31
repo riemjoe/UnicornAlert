@@ -1,6 +1,9 @@
 # UnicornAlert
 UniCorn Alert manages and handles messages. It enables simple and worry-free implementation.
 
+<img width="847" height="293" alt="grafik" src="https://github.com/user-attachments/assets/750c232b-107b-4ed2-b3d9-55963098d014" />
+
+
 ## How to import?
 Import the script UnicornAlert.js into your current project
 ```html
